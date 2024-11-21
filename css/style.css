@@ -1,0 +1,26 @@
+h1{
+    font-size: 100px;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.Quote p{
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-size: 30px;
+}
+.vh-60{
+    height: 70vh;
+}
+.btn{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-weight: 600;
+color: black;
+    font-size: 20px;
+}
+
+body{
+    background-image: url(../images/close-up-metallic-shaving-white-background-with-copy-space.jpg);
+    background-size:cover;
+    background-position: center;
+}
